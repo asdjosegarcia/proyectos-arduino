@@ -1,0 +1,15 @@
+/////botones :
+//conteo: 
+4 direccionales //13,12,11,10
+4 accion        //9,8,7,6
+4 accion arriba //5,4,3,2
+2 motores       //1,0
+3 comando       //A4 + 2 resistencias
+2 axis          //A5 + 1 resistencia
+
+19 TOTAL
+
+
+///notas:
+1 no funciona para detectar cliks
+testear si 0 y 1 sirve para iniciar motores
